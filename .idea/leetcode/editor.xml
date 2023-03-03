@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../leetbookquestion/leetcode/editor/cn/[2363]合并相似的物品.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../leetbookquestion/leetcode/editor/cn/doc/content/[2363]合并相似的物品.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2363" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../leetbookquestion/leetcode/editor/cn/[2363]合并相似的物品.java" />
+              <option name="titleSlug" value="merge-similar-items" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
