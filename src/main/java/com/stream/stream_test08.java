@@ -17,5 +17,9 @@ public class stream_test08 {
 
         List<Integer> collect2 = Stream.iterate(1, x -> x + 2).skip(1).limit(5).collect(Collectors.toList());
         System.out.println(collect2);
+
+        Stream<Integer> iterate = Stream.iterate(1, x -> x + 2).limit(5);
+        System.out.println(iterate);
+
     }
 }
